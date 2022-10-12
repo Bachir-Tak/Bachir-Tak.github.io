@@ -7,6 +7,7 @@ function Mainbody() {
       <video autoPlay loop muted className="videos">
         <source src={video} type="video/mp4" />
       </video>
+      s
     </>
   );
 }
