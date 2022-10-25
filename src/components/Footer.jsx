@@ -3,7 +3,7 @@ import { Card } from "react-bootstrap";
 
 function Footer() {
   return (
-    <Card className="position-absolute footer">
+    <Card className="footer">
       <Card.Body>
         Made For Omar
         <svg

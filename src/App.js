@@ -1,15 +1,18 @@
 import "./Styles/App.css";
-import Navbaros from "./components/Navbar.js";
-import Footer from "./components/Footer.js";
-import Mainbody from "./components/Main_body.js";
-import back_img from "./img/bakcground.jpg";
+import Navbaros from "./components/Navbar.jsx";
+import Footer from "./components/Footer.jsx";
+import Mainbody from "./components/Main_body.jsx";
+import Description from "./components/Description";
+import Comp from "./components/Comp";
 
 function App() {
   return (
     <>
       <Navbaros />
-      <Footer />
       <Mainbody />
+      <Description />
+      <Comp />
+      <Footer />
     </>
   );
 }

@@ -10,13 +10,14 @@
 }
 .El {
   transition: all 0.3s linear;
-  color: rgb(211, 211, 211) !important;
+  color: white !important;
 }
 .El:hover {
   color: #118a7e !important;
 }
 .bg_black {
-  background-color: rgba(30, 30, 30, 0.5);
+  position: absolute;
+  box-shadow: 0vh 0vh 2vh 0vh black;
 }
 .test {
   width: 80%;
