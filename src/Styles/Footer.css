@@ -12,6 +12,7 @@
 }
 .footer:hover {
   color: #118a7e;
+  cursor: default;
 }
 .footer:hover svg {
   width: 3%;

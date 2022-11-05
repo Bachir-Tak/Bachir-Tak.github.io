@@ -4,6 +4,7 @@ import Footer from "./components/Footer.jsx";
 import Mainbody from "./components/Main_body.jsx";
 import Description from "./components/Description";
 import Comp from "./components/Comp";
+import Works from "./components/Works";
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
       <Mainbody />
       <Description />
       <Comp />
+      <Works />
       <Footer />
     </>
   );

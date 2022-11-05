@@ -15,8 +15,8 @@ function Comp() {
           <h2>Design</h2>
         </div>
         <div class="card itemos">
-          <i class="fas fa-brain fa-3x  "></i>
-          <h2>Creativity</h2>
+          <i class="fa fa-book fa-3x" aria-hidden="true"></i>
+          <h2>Storytelling</h2>
         </div>
         <div class="card itemos">
           <i class="fas fa-video fa-3x  "></i>
