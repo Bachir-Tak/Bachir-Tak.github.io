@@ -14,7 +14,7 @@ function dis_over_off() {
   document.getElementById("Overlayos").style.opacity = "0";
   setTimeout(() => {
     document.getElementById("Overlayos").style.display = "none";
-  }, 500);
+  }, 600);
 }
 function Works() {
   return (
